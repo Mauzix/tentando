@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+  }
+  body{
+    background-color: #c0b3b3;
+    display: flex;
+  }
+  header li {
+    display: inline;
+  }
+ 
+  footer{
+    display: flex;
+  }
+  
+  .container {
+    width: 100px;
+    margin: 0 auto;
+  }
+  
+  .artigo {
+    display: flex;
+  }
+  
